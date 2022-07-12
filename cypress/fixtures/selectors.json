@@ -1,0 +1,8 @@
+{
+    "url":"https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F",
+    "emailsel":"#Email",
+    "email":"admin@yourstore.com",
+    "passwordsel":"[name='Password']",
+    "password":"admin",
+    "submit":".login-button"
+}

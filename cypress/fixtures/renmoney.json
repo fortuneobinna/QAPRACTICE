@@ -1,0 +1,23 @@
+{
+"url":"https://www.renmoney.com/",
+"renmoney":"renmoney",
+"verifytitle":"Renmoney | Loans | Savings | Deposits",
+"applynow":".elementor-element-42cc2d7 > .elementor-widget-container > .elementor-button-wrapper > .elementor-button-link > .elementor-button-content-wrapper > .elementor-button-text",
+"applycontains":"Apply Now",
+"body":"body",
+"convenient":"convenient",
+"apply2nd":".elementor-element-849b2da > .elementor-widget-container > .elementor-button-wrapper > .elementor-button-link > .elementor-button-content-wrapper > .elementor-button-text",
+"Renmoney":"Renmoney",
+"login":"login",
+"learnapply":".elementor-element-f202cc6 > .elementor-widget-container > .elementor-icon-box-wrapper > .elementor-icon-box-content > .elementor-icon-box-title > a",
+"learntitle":"Convenient Personal & Business Loans",
+"loans":"loans",
+"needs":"needs",
+"investtitle":"Renmoney Fixed Deposits | Start online today",
+"deposits":"deposits",
+"register":"register",
+"loantitle":"Convenient Personal & Micro-business Loans",
+"savingstitle":"Online savings | Earn up to 12% | Save from ₦500",
+"savings":"savings",
+"auth":"auth"
+}

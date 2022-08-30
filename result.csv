@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1657392608863,3053,List Users,200,OK,REQRES Group 1-1,text,true,,1848,130,2,2,https://reqres.in/api/users?page=2,3027,0,2795
+1657392610466,1455,List Users,200,OK,REQRES Group 1-2,text,true,,1847,130,2,2,https://reqres.in/api/users?page=2,1429,0,1203
+1657392611933,173,Single user,200,OK,REQRES Group 1-2,text,true,,1098,125,2,2,https://reqres.in/api/users/2,172,0,0
+1657392611933,180,Single user,200,OK,REQRES Group 1-1,text,true,,1098,125,2,2,https://reqres.in/api/users/2,180,0,0
+1657392612115,212,Single user not found,404,Not Found,REQRES Group 1-1,text,false,,802,126,2,2,https://reqres.in/api/users/23,211,0,0
+1657392612107,231,Single user not found,404,Not Found,REQRES Group 1-2,text,false,,788,126,2,2,https://reqres.in/api/users/23,231,0,0
+1657392612332,220,Create,201,Created,REQRES Group 1-1,text,true,,813,220,3,3,https://reqres.in/api/users,219,0,0
+1657392612339,213,Create,201,Created,REQRES Group 1-2,text,true,,811,220,3,3,https://reqres.in/api/users,212,0,0
+1657392612557,520,Register-successful,200,OK,REQRES Group 1-2,text,true,,2131,365,3,3,https://reqres.in/api/register,337,0,147
+1657392612557,337,Register-successful-0,301,Moved Permanently,REQRES Group 1-2,,true,,606,239,3,3,http://reqres.in/api/register,337,0,147
+1657392612900,177,Register-successful-1,200,OK,REQRES Group 1-2,text,true,,1525,126,3,3,https://reqres.in/api/register,176,0,0
+1657392612557,532,Register-successful,200,OK,REQRES Group 1-1,text,true,,2141,365,3,3,https://reqres.in/api/register,349,0,154
+1657392612557,349,Register-successful-0,301,Moved Permanently,REQRES Group 1-1,,true,,618,239,3,3,http://reqres.in/api/register,349,0,154
+1657392612907,182,Register-successful-1,200,OK,REQRES Group 1-1,text,true,,1523,126,3,3,https://reqres.in/api/register,181,0,0
+1657392612467,827,List Users,200,OK,REQRES Group 1-3,text,true,,1844,130,3,3,https://reqres.in/api/users?page=2,826,0,647
+1657392613080,329,Login-successful,200,OK,REQRES Group 1-2,text,true,,2128,363,3,3,https://reqres.in/api/login,167,0,0
+1657392613080,167,Login-successful-0,301,Moved Permanently,REQRES Group 1-2,,true,,605,240,3,3,http://reqres.in/api/login,167,0,0
+1657392613247,162,Login-successful-1,200,OK,REQRES Group 1-2,text,true,,1523,123,3,3,https://reqres.in/api/login,160,0,0
+1657392613091,341,Login-successful,200,OK,REQRES Group 1-1,text,true,,2126,363,2,2,https://reqres.in/api/login,177,0,0
+1657392613091,177,Login-successful-0,301,Moved Permanently,REQRES Group 1-1,,true,,605,240,2,2,http://reqres.in/api/login,177,0,0
+1657392613269,163,Login-successful-1,200,OK,REQRES Group 1-1,text,true,,1521,123,2,2,https://reqres.in/api/login,162,0,0
+1657392613295,174,Single user,200,OK,REQRES Group 1-3,text,true,,1090,125,1,1,https://reqres.in/api/users/2,173,0,0
+1657392613470,187,Single user not found,404,Not Found,REQRES Group 1-3,text,false,,796,126,1,1,https://reqres.in/api/users/23,187,0,0
+1657392613659,213,Create,201,Created,REQRES Group 1-3,text,true,,809,220,1,1,https://reqres.in/api/users,213,0,0
+1657392613878,484,Register-successful,200,OK,REQRES Group 1-3,text,true,,2125,365,1,1,https://reqres.in/api/register,309,0,150
+1657392613878,309,Register-successful-0,301,Moved Permanently,REQRES Group 1-3,,true,,606,239,1,1,http://reqres.in/api/register,309,0,150
+1657392614187,175,Register-successful-1,200,OK,REQRES Group 1-3,text,true,,1519,126,1,1,https://reqres.in/api/register,175,0,0
+1657392614364,331,Login-successful,200,OK,REQRES Group 1-3,text,true,,2138,363,2,2,https://reqres.in/api/login,159,0,0
+1657392614364,159,Login-successful-0,301,Moved Permanently,REQRES Group 1-3,,true,,611,240,2,2,http://reqres.in/api/login,159,0,0
+1657392614524,171,Login-successful-1,200,OK,REQRES Group 1-3,text,true,,1527,123,2,2,https://reqres.in/api/login,170,0,0
+1657392614452,774,List Users,200,OK,REQRES Group 1-4,text,true,,1848,130,1,1,https://reqres.in/api/users?page=2,773,0,612
+1657392615227,162,Single user,200,OK,REQRES Group 1-4,text,true,,1098,125,1,1,https://reqres.in/api/users/2,162,0,0
+1657392615391,165,Single user not found,404,Not Found,REQRES Group 1-4,text,false,,794,126,1,1,https://reqres.in/api/users/23,164,0,0
+1657392615557,273,Create,201,Created,REQRES Group 1-4,text,true,,815,220,1,1,https://reqres.in/api/users,273,0,0
+1657392615834,501,Register-successful,200,OK,REQRES Group 1-4,text,true,,2137,365,1,1,https://reqres.in/api/register,330,0,160
+1657392615834,330,Register-successful-0,301,Moved Permanently,REQRES Group 1-4,,true,,614,239,1,1,http://reqres.in/api/register,330,0,160
+1657392616165,170,Register-successful-1,200,OK,REQRES Group 1-4,text,true,,1523,126,1,1,https://reqres.in/api/register,169,0,0
+1657392616337,334,Login-successful,200,OK,REQRES Group 1-4,text,true,,2130,363,2,2,https://reqres.in/api/login,158,0,0
+1657392616337,158,Login-successful-0,301,Moved Permanently,REQRES Group 1-4,,true,,605,240,2,2,http://reqres.in/api/login,158,0,0
+1657392616496,175,Login-successful-1,200,OK,REQRES Group 1-4,text,true,,1525,123,2,2,https://reqres.in/api/login,174,0,0
+1657392616450,749,List Users,200,OK,REQRES Group 1-5,text,true,,1853,130,1,1,https://reqres.in/api/users?page=2,747,0,585
+1657392617200,166,Single user,200,OK,REQRES Group 1-5,text,true,,1094,125,1,1,https://reqres.in/api/users/2,166,0,0
+1657392617368,220,Single user not found,404,Not Found,REQRES Group 1-5,text,false,,796,126,1,1,https://reqres.in/api/users/23,220,0,0
+1657392617589,213,Create,201,Created,REQRES Group 1-5,text,true,,813,220,1,1,https://reqres.in/api/users,212,0,0
+1657392617806,491,Register-successful,200,OK,REQRES Group 1-5,text,true,,2131,365,1,1,https://reqres.in/api/register,312,0,152
+1657392617806,312,Register-successful-0,301,Moved Permanently,REQRES Group 1-5,,true,,614,239,1,1,http://reqres.in/api/register,312,0,152
+1657392618119,178,Register-successful-1,200,OK,REQRES Group 1-5,text,true,,1517,126,1,1,https://reqres.in/api/register,177,0,0
+1657392618299,351,Login-successful,200,OK,REQRES Group 1-5,text,true,,2126,363,2,2,https://reqres.in/api/login,153,0,0
+1657392618299,153,Login-successful-0,301,Moved Permanently,REQRES Group 1-5,,true,,611,240,2,2,http://reqres.in/api/login,153,0,0
+1657392618452,198,Login-successful-1,200,OK,REQRES Group 1-5,text,true,,1515,123,2,2,https://reqres.in/api/login,198,0,0
+1657392618450,765,List Users,200,OK,REQRES Group 1-6,text,true,,1849,130,1,1,https://reqres.in/api/users?page=2,764,0,589
+1657392619210,160,Single user,200,OK,REQRES Group 1-6,text,true,,1104,125,1,1,https://reqres.in/api/users/2,160,0,0
+1657392619371,170,Single user not found,404,Not Found,REQRES Group 1-6,text,false,,796,126,1,1,https://reqres.in/api/users/23,170,0,0
+1657392619542,211,Create,201,Created,REQRES Group 1-6,text,true,,815,220,1,1,https://reqres.in/api/users,211,0,0
+1657392619757,500,Register-successful,200,OK,REQRES Group 1-6,text,true,,2147,365,1,1,https://reqres.in/api/register,336,0,154
+1657392619757,336,Register-successful-0,301,Moved Permanently,REQRES Group 1-6,,true,,618,239,1,1,http://reqres.in/api/register,336,0,154
+1657392620093,164,Register-successful-1,200,OK,REQRES Group 1-6,text,true,,1529,126,1,1,https://reqres.in/api/register,163,0,0
+1657392620258,338,Login-successful,200,OK,REQRES Group 1-6,text,true,,2134,363,2,2,https://reqres.in/api/login,171,0,0
+1657392620258,171,Login-successful-0,301,Moved Permanently,REQRES Group 1-6,,true,,611,240,2,2,http://reqres.in/api/login,171,0,0
+1657392620429,167,Login-successful-1,200,OK,REQRES Group 1-6,text,true,,1523,123,2,2,https://reqres.in/api/login,167,0,0
+1657392620460,777,List Users,200,OK,REQRES Group 1-7,text,true,,1854,130,1,1,https://reqres.in/api/users?page=2,776,0,598
+1657392621238,180,Single user,200,OK,REQRES Group 1-7,text,true,,1094,125,1,1,https://reqres.in/api/users/2,180,0,0
+1657392621419,163,Single user not found,404,Not Found,REQRES Group 1-7,text,false,,804,126,1,1,https://reqres.in/api/users/23,163,0,0
+1657392621584,224,Create,201,Created,REQRES Group 1-7,text,true,,809,220,1,1,https://reqres.in/api/users,224,0,0
+1657392621813,574,Register-successful,200,OK,REQRES Group 1-7,text,true,,2143,365,1,1,https://reqres.in/api/register,359,0,148
+1657392621813,359,Register-successful-0,301,Moved Permanently,REQRES Group 1-7,,true,,614,239,1,1,http://reqres.in/api/register,359,0,148
+1657392622173,214,Register-successful-1,200,OK,REQRES Group 1-7,text,true,,1529,126,1,1,https://reqres.in/api/register,195,0,0
+1657392622389,353,Login-successful,200,OK,REQRES Group 1-7,text,true,,2126,363,2,2,https://reqres.in/api/login,182,0,0
+1657392622389,182,Login-successful-0,301,Moved Permanently,REQRES Group 1-7,,true,,607,240,2,2,http://reqres.in/api/login,182,0,0
+1657392622572,170,Login-successful-1,200,OK,REQRES Group 1-7,text,true,,1519,123,2,2,https://reqres.in/api/login,169,0,0
+1657392622444,837,List Users,200,OK,REQRES Group 1-8,text,true,,1857,130,1,1,https://reqres.in/api/users?page=2,836,0,632
+1657392623282,166,Single user,200,OK,REQRES Group 1-8,text,true,,1096,125,1,1,https://reqres.in/api/users/2,166,0,0
+1657392623449,197,Single user not found,404,Not Found,REQRES Group 1-8,text,false,,801,126,1,1,https://reqres.in/api/users/23,197,0,0
+1657392623653,209,Create,201,Created,REQRES Group 1-8,text,true,,809,220,1,1,https://reqres.in/api/users,209,0,0
+1657392623866,515,Register-successful,200,OK,REQRES Group 1-8,text,true,,2123,365,1,1,https://reqres.in/api/register,327,0,158
+1657392623866,327,Register-successful-0,301,Moved Permanently,REQRES Group 1-8,,true,,606,239,1,1,http://reqres.in/api/register,327,0,158
+1657392624193,188,Register-successful-1,200,OK,REQRES Group 1-8,text,true,,1517,126,1,1,https://reqres.in/api/register,187,0,0
+1657392624382,325,Login-successful,200,OK,REQRES Group 1-8,text,true,,2130,363,2,2,https://reqres.in/api/login,157,0,0
+1657392624382,157,Login-successful-0,301,Moved Permanently,REQRES Group 1-8,,true,,605,240,2,2,http://reqres.in/api/login,157,0,0
+1657392624540,167,Login-successful-1,200,OK,REQRES Group 1-8,text,true,,1525,123,2,2,https://reqres.in/api/login,167,0,0
+1657392624451,1467,List Users,200,OK,REQRES Group 1-9,text,true,,1845,130,1,1,https://reqres.in/api/users?page=2,1466,0,689
+1657392625919,172,Single user,200,OK,REQRES Group 1-9,text,true,,1094,125,1,1,https://reqres.in/api/users/2,172,0,0
+1657392626092,242,Single user not found,404,Not Found,REQRES Group 1-9,text,false,,796,126,1,1,https://reqres.in/api/users/23,241,0,0
+1657392626335,228,Create,201,Created,REQRES Group 1-9,text,true,,819,220,2,2,https://reqres.in/api/users,228,0,0
+1657392626567,478,Register-successful,200,OK,REQRES Group 1-9,text,true,,2129,365,2,2,https://reqres.in/api/register,308,0,143
+1657392626567,308,Register-successful-0,301,Moved Permanently,REQRES Group 1-9,,true,,608,239,2,2,http://reqres.in/api/register,308,0,143
+1657392626876,169,Register-successful-1,200,OK,REQRES Group 1-9,text,true,,1521,126,2,2,https://reqres.in/api/register,168,0,0
+1657392626450,752,List Users,200,OK,REQRES Group 1-10,text,true,,1859,130,2,2,https://reqres.in/api/users?page=2,751,0,581
+1657392627203,171,Single user,200,OK,REQRES Group 1-10,text,true,,1098,125,2,2,https://reqres.in/api/users/2,171,0,0
+1657392627046,382,Login-successful,200,OK,REQRES Group 1-9,text,true,,2136,363,2,2,https://reqres.in/api/login,190,0,0
+1657392627046,190,Login-successful-0,301,Moved Permanently,REQRES Group 1-9,,true,,607,240,2,2,http://reqres.in/api/login,190,0,0
+1657392627237,191,Login-successful-1,200,OK,REQRES Group 1-9,text,true,,1529,123,2,2,https://reqres.in/api/login,176,0,0
+1657392627375,172,Single user not found,404,Not Found,REQRES Group 1-10,text,false,,792,126,1,1,https://reqres.in/api/users/23,172,0,0
+1657392627549,226,Create,201,Created,REQRES Group 1-10,text,true,,811,220,1,1,https://reqres.in/api/users,225,0,0
+1657392627778,498,Register-successful,200,OK,REQRES Group 1-10,text,true,,2129,365,1,1,https://reqres.in/api/register,320,0,163
+1657392627778,320,Register-successful-0,301,Moved Permanently,REQRES Group 1-10,,true,,608,239,1,1,http://reqres.in/api/register,320,0,163
+1657392628098,178,Register-successful-1,200,OK,REQRES Group 1-10,text,true,,1521,126,1,1,https://reqres.in/api/register,177,0,0
+1657392628277,333,Login-successful,200,OK,REQRES Group 1-10,text,true,,2128,363,1,1,https://reqres.in/api/login,161,0,0
+1657392628277,161,Login-successful-0,301,Moved Permanently,REQRES Group 1-10,,true,,605,240,1,1,http://reqres.in/api/login,161,0,0
+1657392628438,172,Login-successful-1,200,OK,REQRES Group 1-10,text,true,,1523,123,1,1,https://reqres.in/api/login,172,0,0
